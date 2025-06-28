@@ -8,9 +8,12 @@ The primary goal is to develop a robust, scalable, and reproducible framework fo
 
 This organization contains the core components of the ProfitableWeb ecosystem:
 
-*   **[profitable-web-backend](./profitable-web-backend)**: The heart of the system. A Python/FastAPI-based API that handles all business logic, content management, and AI integration.
-*   **[profitable-web-frontend](./profitable-web-frontend)**: The public-facing website. Built with Next.js for maximum performance and SEO, using Static Site Generation (SSG) and Server-Side Rendering (SSR).
-*   **[profitable-web-admin](./profitable-web-admin)**: The control panel. A Next.js Single-Page Application (SPA) for managing content, users, and analytics.
+*   **[profitable-web-backend](./profitable-web-backend)** <br>
+    The heart of the system. A Python/FastAPI-based API that handles all business logic, content management, and AI integration.
+*   **[profitable-web-frontend](./profitable-web-frontend)**  <br>
+    The public-facing website. Built with Next.js for maximum performance and SEO, using Static Site Generation (SSG) and Server-Side Rendering (SSR).
+*   **[profitable-web-admin](./profitable-web-admin)**  <br>
+    The control panel. A Next.js Single-Page Application (SPA) for managing content, users, and analytics.
 
 ## 🛠️ Core Technology Stack
 
