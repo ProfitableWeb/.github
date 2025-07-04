@@ -1,4 +1,4 @@
-## 🎯 Mission
+## Mission
 
 This organization houses the codebase for the [ProfitableWeb.ru](https://profitableweb.ru) project.
 
@@ -15,7 +15,7 @@ This organization contains the core components of the ProfitableWeb ecosystem:
 *   **[profitable-web-admin](./profitable-web-admin)**  <br>
     The control panel. A Next.js Single-Page Application (SPA) for managing content, users, and analytics.
 
-## 🛠️ Core Technology Stack
+## Core Technology Stack
 
 Our core stack is built on modern, efficient, and scalable technologies:
 
@@ -24,6 +24,6 @@ Our core stack is built on modern, efficient, and scalable technologies:
 *   **DevOps:** Docker, GitHub Actions (CI/CD)
 *   **Code Quality:** Ruff, Mypy
 
-## 📈 Status
+## Status
 
 This project is currently under active development. The infrastructure is being laid out, and the core functionalities are in the process of being built.
